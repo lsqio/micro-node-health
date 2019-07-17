@@ -1,6 +1,6 @@
 {
   "name": "mutable-example-health-service",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This example service is used to demonstrate the health checking functionality of Mutable and other capabilities.",
   "main": "app.js",
   "dependencies": {
